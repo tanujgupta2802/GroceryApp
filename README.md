@@ -26,7 +26,8 @@ A fully responsive **Grocery Shopping App** built using the **MERN Stack (MongoD
 
 ## 📷 Screenshots
 
-> _Add screenshots here (optional)_
+> ![localhost_5173_ (1)](https://github.com/user-attachments/assets/626ff6bb-f8bd-47c0-b9d6-ae4f0b3ff492)
+
 
 ---
 
